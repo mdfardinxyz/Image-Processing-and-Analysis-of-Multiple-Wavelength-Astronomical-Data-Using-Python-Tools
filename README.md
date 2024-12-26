@@ -6,14 +6,11 @@ We developed a Python based framework for astronomical image processing and anal
 
 My Contribution: Section 2 (Methodology)
 
-ADS: [2024arXiv241006573B](https://ui.adsabs.harvard.edu/abs/2024arXiv241006573B/abstract)
+ADS: [2024arXiv241006573B](https://ui.adsabs.harvard.edu/abs/2024arXiv241006573B/abstract)\
+Publication: arXiv e-prints\
+Pub Date: October 2024
 
-Publication: arXiv e-prints
-
-Pub Date: October 2024 
-
-Subjects:	Instrumentation and Methods for Astrophysics (astro-ph.IM)
-
+Subjects:	Instrumentation and Methods for Astrophysics (astro-ph.IM)\
 Cite as:	[arXiv:2410.06573](https://arxiv.org/abs/2410.06573) [astro-ph.IM]
 
 
