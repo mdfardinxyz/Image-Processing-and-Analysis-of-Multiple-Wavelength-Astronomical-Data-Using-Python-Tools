@@ -4,7 +4,7 @@
 
 We developed a Python based framework for astronomical image processing and analysis. Astronomical image loading, normalizing, stacking, and filtering processes represent visible range images from grayscale. Besides, the blending process helps to analyze the image of multiple wavelengths in the visible range. The methods take advantage of include median filtering for noise reduction, unsharp masking for sharpening details, and intensity normalization techniques. The detailed analysis of pixel intensity distributions and applying Gaussian fitting to variations across different wavelength bands. These methods highlight Python as a valuable tool for astronomers.
 
-My Contribution: Section 2 (Methodology)
+**My contribution:** Section 2 (Methodology)
 
 ADS: [2024arXiv241006573B](https://ui.adsabs.harvard.edu/abs/2024arXiv241006573B/abstract)\
 Publication: arXiv e-prints\
