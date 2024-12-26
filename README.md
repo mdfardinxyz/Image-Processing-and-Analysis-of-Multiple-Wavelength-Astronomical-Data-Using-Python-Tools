@@ -14,4 +14,4 @@ Subjects:	Instrumentation and Methods for Astrophysics (astro-ph.IM)\
 Cite as:	[arXiv:2410.06573](https://arxiv.org/abs/2410.06573) [astro-ph.IM]
 
 
-[![image](https://github.com/user-attachments/assets/c52634ac-4df4-4083-bd52-adec69f4075b)](https://github.com/mdfardinxyz/Image-Processing-and-Analysis-of-Multiple-Wavelength-Astronomical-Data-Using-Python-Tools/blob/main/2410.06573v1.pdf)
+[![image](https://github.com/user-attachments/assets/c52634ac-4df4-4083-bd52-adec69f4075b)](https://ui.adsabs.harvard.edu/abs/2024arXiv241006573B/abstract)
